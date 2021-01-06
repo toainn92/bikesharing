@@ -39,6 +39,15 @@ This visualization is a heatmap of the highest frequency of bike rides based on 
 ### Number of Trips by Usertype and Gender based on Weekday
 
 ![](images/TripsUsertypeGenderWeekday.PNG)
-This visualization is a heatmap of the highest frequency of bike rides based on usertype (customer/subscriber), split up by Gender. Based on this heatmpa, the highest amount of checkout are from Male Subscribers on Thursday and Friday. Overall, there are more frequent male/female subscribers that check out bikes than normal male/female customer. 
+This visualization is a heatmap of the highest frequency of bike rides based on usertype (customer/subscriber), split up by Gender. Based on this heatmap, the highest amount of checkout are from Male Subscribers on Thursday and Friday. Overall, there are more frequent male/female subscribers that check out bikes than normal male/female customer. 
 
 ## Summary
+Below are some high level summary of the results:
+- Majority of Bike usages are from Male
+- By looking at usertype, Subscriptions work more for Male than Female. However, there are more subscribers than regular customers
+- Bike usage are popular during the evening time, especially on Thursday evenings between 5pm to 7pm.
+
+Two additional visualizations suggestions:
+- Based on latitude and longitude, determine average distance per trip based on gender and user type
+- Based on latitude and longitude, determine average distance per trip based on weekday, hour, and gender.
+
